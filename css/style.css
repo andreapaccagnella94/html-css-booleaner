@@ -1,1 +1,13 @@
-h1 {}
+#logo {
+    width: 100px;
+    height: 100px;
+    position: center;
+}
+
+.pattern {
+    height: 100px;
+    width: 100%;
+    background-image: url(../img/pattern.png);
+    background-color: blue;
+    background-size: contain;
+}
